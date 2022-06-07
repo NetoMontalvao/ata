@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\anaca",
+  "password": false,
+  "pid": 9700,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "7d346c2488ef935a917a1c3e604fa441f266eacd41f3b1aa",
+  "url": "http://localhost:8888/"
+}
